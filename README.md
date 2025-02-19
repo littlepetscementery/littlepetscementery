@@ -11,7 +11,7 @@
 ![17399269399291602833578251922273](https://github.com/user-attachments/assets/de78fec7-1c4f-4a8e-8339-320a6756522b)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ucu2kkaqgzdps7j7pckg73btxi&unique={true|1|on|yes})
+
 
 ![17399305024906378315726232392595](https://github.com/user-attachments/assets/2a2ea720-9e6e-40c2-9cf0-fe7a08a398e1)
 
