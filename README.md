@@ -1,7 +1,8 @@
 <div align='center'>
 
   
-  ![173993035396811828134758470020](https://github.com/user-attachments/assets/7653b6d1-1e9b-4d8e-9381-f31ea48952ee)
+![17400055660696760046252993464134](https://github.com/user-attachments/assets/dc0c7356-8255-4a5f-ad5a-ba2fbcdd7e61)
+
 
   
   $${\color{red}私は影の中で朽ち果てて助けを待っていますが \space ついに助けがやって来ても \space 私はそれを受け取りたくありません \space いつまでもバカのままだよ}$$
